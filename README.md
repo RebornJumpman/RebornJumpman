@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, PowerShell, and BASH scripting. 
 - 💞️ I’m looking to collaborate on things in the future.
 - 📫 How to reach me:
-    Email: rebornjumpman@protonmail.com
-    Telegram: https://t.me/RebornJumpman
-    Matrix: @rebornjumpman:matrix.org
+    - Email: rebornjumpman@protonmail.com
+    - Telegram: https://t.me/RebornJumpman
+    - Matrix: @rebornjumpman:matrix.org
     
 
 <!---
