@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan (@RebornJumpman)
 - 👀 I’m interested in Linux, network administration and automation, retro gaming, and vintage computing.
-- 🌱 I’m currently learning Python, PowerShell, and BASH scripting. 
+- 🌱 I’m currently learning SQL, PowerShell, and BASH scripting. 
 - 💞️ I’m looking to collaborate on things in the future.
 - 📫 How to reach me:
     - Email: rebornjumpman@protonmail.com
